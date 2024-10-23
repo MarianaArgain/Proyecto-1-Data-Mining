@@ -1,0 +1,16 @@
+{
+    "ciudades": [
+        {
+            "nombre": "Montevideo",
+            "propiedades": []
+        },
+        {
+            "nombre": "Punta del Este",
+            "propiedades": []
+        },
+        {
+            "nombre": "Salto",
+            "propiedades": []
+        }
+    ]
+}
